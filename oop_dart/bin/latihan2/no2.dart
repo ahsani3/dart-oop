@@ -1,6 +1,7 @@
 class RekeningBank {
   int? _saldo;
 
+  // RekeningBank(this._saldo =0);
   void setSaldo(int saldo) {
     this._saldo = saldo;
   }
